@@ -5,3 +5,6 @@ This project applies a conditional Denoising Diffusion Probabilistic Model (DDPM
 The model was tested on the CLEVRER dataset using two types of masking techniques: stationary and variable. A resampling technique was employed to improve the consistency and realism of the generated frames.
 
 In this project, the training was conducted based on RamVid (https://github.com/Tobi-r9/RaMViD).
+
+# TODO:
+Upload initial code
